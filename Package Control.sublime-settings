@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"GitHub Flavored Markdown Preview",
+		"JSCustom",
+		"JsPrettier",
+		"Naomi",
+		"PackageResourceViewer",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"Theme - Cobalt2"
+	]
+}
